@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ECS40_Monopoly.dir/Game.cpp.o CMakeFiles/ECS40_Monopoly.dir/main.cpp.o CMakeFiles/ECS40_Monopoly.dir/OtherClass.cpp.o CMakeFiles/ECS40_Monopoly.dir/player.cpp.o CMakeFiles/ECS40_Monopoly.dir/Property.cpp.o CMakeFiles/ECS40_Monopoly.dir/rules.cpp.o CMakeFiles/ECS40_Monopoly.dir/setGame.cpp.o  -o ECS40_Monopoly 
